@@ -35,7 +35,7 @@
       </v-card>
       <v-card v-else>
         <v-card-title><h3 class="headline mb-0">No Goals</h3></v-card-title>
-        <v-card-text>You seem to have no goals in life.</v-card-text>
+        <v-card-text>You havent added any <strong>goals</strong> yet!!.</v-card-text>
         <v-card-actions>
           <v-btn to="/todos" class="blue--text" flat>Create One</v-btn>
         </v-card-actions>
